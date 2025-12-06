@@ -25,11 +25,11 @@
 - GET /shifts?employee=E002&date=2025-12-01 (authentication needed)
 - DELETE /shift/:id (auth + admin)
 
+## Postman Collections:
+<a href="./postman_collection.json">postman_collection</a>
+
+
 ## Demo credentials (for login page):
 - Admin: admin@company.local / Admin@2025!
 - Demo user: hire-me@anshumat.org / HireMe@2025!
 - Demo credentials are pre-filled on the login page.
-
-
-## Postman Collections:
-<a href="./postman_collection.json">postman_collection</a>
