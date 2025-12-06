@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@company.local",
+      "password": "$2a$08$y9zHeCyEQgJ7l9dy1.gNeO5oxbC4lLhOxOVUVtX6HXa89RauTFAoK",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "email": "hire-me@anshumat.org",
+      "password": "$2a$08$ewh6bA75TgXnKZtJomTkru9/edFW55hHJHTebhooVgfYjJQCoDa0K",
+      "role": "user"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Anshuman Admin",
+      "employee_code": "E001",
+      "department": "HR"
+    },
+    {
+      "id": 2,
+      "name": "Anshuman Worker",
+      "employee_code": "E002",
+      "department": "Engineering"
+    }
+  ],
+  "shifts": [
+    {
+      "id": 3,
+      "employee_id": 2,
+      "date": "2025-12-05",
+      "start_time": "09:00",
+      "end_time": "17:00"
+    },
+    {
+      "id": 4,
+      "employee_id": 1,
+      "date": "2025-12-12",
+      "start_time": "09:00",
+      "end_time": "17:00"
+    },
+    {
+      "id": 5,
+      "employee_id": 2,
+      "date": "2025-12-17",
+      "start_time": "09:00",
+      "end_time": "17:00"
+    }
+  ],
+  "_seq": {
+    "users": 3,
+    "employees": 3,
+    "shifts": 6
+  }
+}

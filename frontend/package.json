@@ -1,0 +1,17 @@
+{
+    "name": "shift-board-frontend",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "parcel src/index.html --port 3000",
+        "dev": "parcel src/index.html --port 3000",
+        "build": "parcel build src/index.html --public-url ./"
+    },
+    "dependencies": {
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "parcel": "^2.9.3"
+    }
+}
