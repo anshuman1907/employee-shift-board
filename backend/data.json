@@ -48,11 +48,18 @@
       "date": "2025-12-17",
       "start_time": "09:00",
       "end_time": "17:00"
+    },
+    {
+      "id": 6,
+      "employee_id": 2,
+      "date": "2025-12-11",
+      "start_time": "10:00",
+      "end_time": "20:00"
     }
   ],
   "_seq": {
     "users": 3,
     "employees": 3,
-    "shifts": 6
+    "shifts": 7
   }
 }
