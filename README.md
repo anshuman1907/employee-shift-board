@@ -1,10 +1,10 @@
-Steps to Run:
-# start backend:
+# Steps to Run:
+### start backend:
 1. cd backend
 2. npm install
 3. npm run dev
 
-# Run frontend:
+### Run frontend:
 1. cd frontend
 2. npm install
 3. npm start
