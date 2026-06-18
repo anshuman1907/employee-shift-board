@@ -1,3 +1,10 @@
+
+## Project Screenshot
+
+
+![Homepage](shifts.png)
+
+
 # Steps to Run:
 ### start backend:
 1. cd backend
